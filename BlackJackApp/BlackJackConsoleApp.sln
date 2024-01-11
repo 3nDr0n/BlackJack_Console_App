@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackJack_ClassesAndObjects__Tutorial", "BlackJack_ClassesAndObjects__Tutorial.csproj", "{D9120C9A-2E2B-487C-ABA8-497B9E57EB3D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackJackConsoleApp", "BlackJackConsoleApp.csproj", "{D9120C9A-2E2B-487C-ABA8-497B9E57EB3D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Casino", "..\Casino\Casino.csproj", "{15C6F818-BA59-4533-B658-01034EF10437}"
 EndProject

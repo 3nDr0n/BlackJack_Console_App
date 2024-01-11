@@ -1,0 +1,12 @@
+C:\Users\3nDr0n\source\repos\Casino\bin\Debug\Casino.dll
+C:\Users\3nDr0n\source\repos\Casino\bin\Debug\Casino.pdb
+C:\Users\3nDr0n\source\repos\Casino\obj\Debug\Casino.csproj.AssemblyReference.cache
+C:\Users\3nDr0n\source\repos\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
+C:\Users\3nDr0n\source\repos\Casino\obj\Debug\Casino.dll
+C:\Users\3nDr0n\source\repos\Casino\obj\Debug\Casino.pdb
+C:\Users\3nDr0n\source\repos\BlackJackConsoleApp\Casino\bin\Debug\Casino.dll
+C:\Users\3nDr0n\source\repos\BlackJackConsoleApp\Casino\bin\Debug\Casino.pdb
+C:\Users\3nDr0n\source\repos\BlackJackConsoleApp\Casino\obj\Debug\Casino.csproj.AssemblyReference.cache
+C:\Users\3nDr0n\source\repos\BlackJackConsoleApp\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
+C:\Users\3nDr0n\source\repos\BlackJackConsoleApp\Casino\obj\Debug\Casino.dll
+C:\Users\3nDr0n\source\repos\BlackJackConsoleApp\Casino\obj\Debug\Casino.pdb
