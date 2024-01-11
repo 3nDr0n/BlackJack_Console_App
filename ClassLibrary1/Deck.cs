@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BlackJack_ClassesAndObjects__Tutorial
+namespace Casino
 {
     public class Deck
     {
@@ -24,6 +24,7 @@ namespace BlackJack_ClassesAndObjects__Tutorial
             }
         }
         public List<Card> Cards { get; set; }
+        public Deck Empty { get; internal set; }
 
         public void Shuffle(int times = 1)
         {

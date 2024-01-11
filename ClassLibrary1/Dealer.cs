@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
-namespace BlackJack_ClassesAndObjects__Tutorial
+namespace Casino
 {
     public class Dealer
     {

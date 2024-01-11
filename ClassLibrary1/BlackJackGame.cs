@@ -4,9 +4,9 @@ using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using BlackJack_ClassesAndObjects__Tutorial.Interfaces;
+using Casino.Interfaces;
 
-namespace BlackJack_ClassesAndObjects__Tutorial
+namespace Casino.BlackJack
 {
     public class BlackJackGame : Game, IWalkAway
     {

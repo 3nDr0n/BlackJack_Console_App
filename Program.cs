@@ -1,4 +1,6 @@
 ﻿using System;
+using Casino;
+using Casino.BlackJack;
 
 namespace BlackJack_ClassesAndObjects__Tutorial
 {
