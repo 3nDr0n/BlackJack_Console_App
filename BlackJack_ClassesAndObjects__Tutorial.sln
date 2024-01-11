@@ -5,7 +5,7 @@ VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackJack_ClassesAndObjects__Tutorial", "BlackJack_ClassesAndObjects__Tutorial.csproj", "{D9120C9A-2E2B-487C-ABA8-497B9E57EB3D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Casino", "ClassLibrary1\Casino.csproj", "{F7C8FDF2-514B-4E2C-8073-0033CD4E81B8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Casino", "..\Casino\Casino.csproj", "{15C6F818-BA59-4533-B658-01034EF10437}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{D9120C9A-2E2B-487C-ABA8-497B9E57EB3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9120C9A-2E2B-487C-ABA8-497B9E57EB3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9120C9A-2E2B-487C-ABA8-497B9E57EB3D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F7C8FDF2-514B-4E2C-8073-0033CD4E81B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F7C8FDF2-514B-4E2C-8073-0033CD4E81B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F7C8FDF2-514B-4E2C-8073-0033CD4E81B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F7C8FDF2-514B-4E2C-8073-0033CD4E81B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15C6F818-BA59-4533-B658-01034EF10437}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15C6F818-BA59-4533-B658-01034EF10437}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15C6F818-BA59-4533-B658-01034EF10437}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15C6F818-BA59-4533-B658-01034EF10437}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
